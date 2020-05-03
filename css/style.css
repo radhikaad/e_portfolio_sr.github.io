@@ -394,8 +394,8 @@ a:active,a:focus,a:hover {
   border-color: #4054b2 transparent transparent transparent; 
 }
 
- /*.colorlib-narrow-content {
-  margin-bottom: 120px; }*/
+ .colorlib-narrow-content {
+  margin-bottom: 120px; }
 
 
 @media screen and (max-width: 878px) {
